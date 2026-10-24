@@ -6,15 +6,15 @@ function Home() {
       <h1>Home</h1>
 
       <img
-        src={`${process.env.PUBLIC_URL}/student.jpg`}
-        alt="Student profile"
-        className="student-photo"
-      />
+  src={`${process.env.PUBLIC_URL}/image.jpg`}
+  alt="My Image"
+  width="300"
+/>
 
-      <h2>Arun Kumar</h2>
+      <h2>Madhesh K</h2>
 
       <p>
-        Hello! My name is AAA. I am a BCA student who enjoys learning programming,
+        Hello! My name is Madhesh K. I am a BCA student who enjoys learning programming,
         developing websites, and exploring new technologies.
       </p>
 
