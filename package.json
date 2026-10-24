@@ -2,7 +2,7 @@
   "name": "rjs-p19-student-profile",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://madhesh78.github.io/prg19",
+  "homepage": "https://abdulbazeer.github.io/rjs-p19/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
