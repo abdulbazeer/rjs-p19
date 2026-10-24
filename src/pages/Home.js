@@ -9,7 +9,7 @@ function Home() {
    
 
 <img
-  src={`${process.env.PUBLIC_URL}/image.jpg`}
+  src={`${process.env.PUBLIC_URL}/student.jpg`}
   alt="Student Profile"
   width="300"
 />
