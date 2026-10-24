@@ -6,11 +6,13 @@ function Home() {
     <div className="page home-page">
       <h1>Home</h1>
 
-      <img
-  src={`${process.env.PUBLIC_URL}/image.jpg`}
+   
+<img
+  src={`${process.env.PUBLIC_URL}/student.jpg`}
   alt="Student Profile"
   width="300"
 />
+
 
       <h2> ABDUL BAZEER.M</h2>
 
